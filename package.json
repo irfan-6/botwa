@@ -13,7 +13,7 @@
   "author": "AraChan",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "4.4.0",
+    "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "acrcloud": "^1.4.0",
     "awesome-phonenumber": "^2.69.0",
